@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark"
+    tools:context=".Halaman_beli">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="122dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="22dp"
+        app:layout_constraintEnd_toStartOf="@+id/textView17"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/telor" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="105dp"
+        android:layout_height="79dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="27dp"
+        app:layout_constraintEnd_toStartOf="@+id/textView21"
+        app:layout_constraintTop_toBottomOf="@+id/telor_ku"
+        app:srcCompat="@drawable/minyak" />
+
+    <TextView
+        android:id="@+id/telor_ku"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="53dp"
+        android:text="Telor"
+        android:textColor="#F1F1F1"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <TextView
+        android:id="@+id/minyak_ku"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="8dp"
+        android:text="Minyak "
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="66dp"
+        android:text="Rp 25.000/kg"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="22dp"
+        android:text="Rp 18.000/Ltr"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toEndOf="@+id/imageView3"
+        app:layout_constraintTop_toBottomOf="@+id/txt_telor" />
+
+    <ImageButton
+        android:id="@+id/btn_beli_telor"
+        android:layout_width="48dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="64dp"
+        android:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toEndOf="@+id/textView17"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_baseline_add_shopping_cart_24" />
+
+    <ImageButton
+        android:id="@+id/btn_beli_minyak"
+        android:layout_width="48dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="@color/teal_700"
+        app:layout_constraintStart_toEndOf="@+id/textView21"
+        app:layout_constraintTop_toBottomOf="@+id/txt_telor"
+        app:srcCompat="@drawable/ic_baseline_add_shopping_cart_24" />
+
+    <EditText
+        android:id="@+id/txt_telor"
+        android:layout_width="118dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toEndOf="@+id/telor_ku"
+        app:layout_constraintTop_toBottomOf="@+id/btn_beli_telor" />
+
+    <EditText
+        android:id="@+id/txt_minyak"
+        android:layout_width="118dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintStart_toEndOf="@+id/minyak_ku"
+        app:layout_constraintTop_toBottomOf="@+id/btn_beli_minyak" />
+
+    <Button
+        android:id="@+id/btn_kurangTelor"
+        android:layout_width="55dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="62dp"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:text="-"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintStart_toEndOf="@+id/btn_beli_telor"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_kurangMinyak"
+        android:layout_width="55dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="83dp"
+        android:backgroundTint="@android:color/holo_red_dark"
+        android:text="-"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintStart_toEndOf="@+id/btn_beli_minyak"
+        app:layout_constraintTop_toBottomOf="@+id/btn_kurangTelor" />
+
+    <Button
+        android:id="@+id/btn_hapusTelor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="12dp"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:text="Hapus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_kurangTelor" />
+
+    <Button
+        android:id="@+id/btn_hapusMinyak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:text="Hapus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_kurangMinyak" />
+
+    <Button
+        android:id="@+id/btn_beli"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:text="Beli"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_minyak" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

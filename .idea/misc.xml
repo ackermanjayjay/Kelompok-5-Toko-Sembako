@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_create_data.xml" value="0.17798913043478262" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_data_pelanggan.xml" value="0.125" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_db_read.xml" value="0.1213768115942029" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_halaman_admin.xml" value="0.152" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_halaman_barang.xml" value="0.12907608695652173" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_halaman_beli.xml" value="0.12907608695652173" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_halaman_home.xml" value="0.264" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_halaman_kelompok.xml" value="0.12907608695652173" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_halaman_regis.xml" value="0.17798913043478262" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/content_halaman_regis.xml" value="0.17798913043478262" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/halaman_regis.xml" value="0.1" />
+        <entry key="..\:/A(BELAJAR DART)/ngoding gabut/Android/Coba_Firebase/app/src/main/res/layout/read_pelanggan.xml" value="0.125" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_db_read.xml" value="0.16259057971014493" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_halaman_barang.xml" value="0.14270833333333333" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_halaman_barang1.xml" value="0.1671195652173913" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_halaman_beli.xml" value="0.16259057971014493" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_halaman_home.xml" value="0.264" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_halaman_kelompok.xml" value="0.16259057971014493" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_halaman_konfirm.xml" value="0.1671195652173913" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_halaman_transaksi.xml" value="0.16259057971014493" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/activity_main.xml" value="0.16259057971014493" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/halaman_regis.xml" value="0.14479166666666668" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/item_pelanggan.xml" value="0.17798913043478262" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/listbarang.xml" value="0.17798913043478262" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/1 Projek/Coba_Firebase/app/src/main/res/layout/my_row.xml" value="0.14479166666666668" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/activity_db_read.xml" value="0.17753623188405798" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/activity_halaman_admin.xml" value="0.27447916666666666" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/activity_halaman_beli.xml" value="0.27447916666666666" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/activity_halaman_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/activity_halaman_kelompok.xml" value="0.27447916666666666" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/activity_halaman_transaksi.xml" value="0.27447916666666666" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/halaman_regis.xml" value="0.27447916666666666" />
+        <entry key="..\:/COLLEGE/SEMESTER 5/PENGMBANGAN APLIKASI BERBASIS MOBILE/A(Projek)/PROJECT BENER/PROJECT-APP-KELOMPOK5/Coba_Firebase/app/src/main/res/layout/item_pelanggan.xml" value="0.536" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/activity_db_read.xml" value="0.371875" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/activity_halaman_admin.xml" value="0.371875" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/activity_halaman_beli.xml" value="0.371875" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/activity_halaman_home.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/activity_halaman_kelompok.xml" value="0.371875" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/activity_halaman_transaksi.xml" value="0.371875" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/halaman_regis.xml" value="0.371875" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/item_pelanggan.xml" value="0.371875" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/listbarang.xml" value="0.25" />
+        <entry key="..\:/Users/Lenovo/Documents/Proyek/Coba_Firebase/app/src/main/res/layout/my_row.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
